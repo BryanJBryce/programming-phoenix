@@ -1,0 +1,24 @@
+v2.
+{<<"/Users/bryan/Elixir/phoenix/programming-phoenix/throwaway/hello/_build/dev/lib/phoenix_live_reload/ebin/Elixir.Phoenix.LiveReloader.Socket.beam">>,
+ 'Elixir.Phoenix.LiveReloader.Socket',module,
+ <<"lib/phoenix_live_reload/socket.ex">>,
+ ['Elixir.Kernel','Elixir.Phoenix.Socket',
+  'Elixir.Phoenix.Transports.WebSocket','Elixir.Phoenix.Transports.LongPoll',
+  'Elixir.Module','Elixir.Phoenix'],
+ [],[],nil}.
+{<<"/Users/bryan/Elixir/phoenix/programming-phoenix/throwaway/hello/_build/dev/lib/phoenix_live_reload/ebin/Elixir.Phoenix.LiveReload.Channel.beam">>,
+ 'Elixir.Phoenix.LiveReload.Channel',module,
+ <<"lib/phoenix_live_reload/channel.ex">>,
+ ['Elixir.Kernel','Elixir.Phoenix.Channel','Elixir.Phoenix.Socket',
+  'Elixir.Module','Elixir.Logger'],
+ [erlang,'Elixir.Path','Elixir.String','Elixir.Enum',fs,'Elixir.String.Chars',
+  'Elixir.Access','Elixir.Application'],
+ [],nil}.
+{<<"/Users/bryan/Elixir/phoenix/programming-phoenix/throwaway/hello/_build/dev/lib/phoenix_live_reload/ebin/Elixir.Phoenix.LiveReloader.beam">>,
+ 'Elixir.Phoenix.LiveReloader',module,
+ <<"lib/phoenix_live_reload/live_reloader.ex">>,
+ ['Elixir.File','Elixir.Kernel','Elixir.Plug.Conn','Elixir.Module',
+  'Elixir.Plug','Elixir.Application'],
+ [erlang,'Elixir.String','Elixir.Enum','Elixir.String.Chars','Elixir.Access',
+  'Elixir.Map'],
+ [],nil}.
