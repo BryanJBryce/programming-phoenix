@@ -1,0 +1,2 @@
+<h1>From template: Hello world!</h1>
+<p>My name is <%= String.capitalize @name %> and I love Elixir and Phoenix</p>
