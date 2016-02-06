@@ -1,9 +1,8 @@
 defmodule Rumbl.UserController do
-  user Rumbl.Web, :controller
-  alias Rumbl.User
+  use Rumbl.Web, :controller
 
   def index(conn, _params) do
-    users = Repo.all(User)
+    users = Repo.all(Rumbl.User)
     render conn, "index.html", users: users
   end
 
